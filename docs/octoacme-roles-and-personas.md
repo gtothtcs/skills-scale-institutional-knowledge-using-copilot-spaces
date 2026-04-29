@@ -75,6 +75,126 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA Lead
+
+### Role Summary
+Project Managers coordinate delivery activities, manage schedules, risks, and communications. They enable the team to deliver on commitments efficiently.
+
+### Responsibilities
+- Create and maintain project plans and timelines
+- Manage risks, dependencies, and resource constraints
+- Facilitate meetings (kickoff, planning, retrospectives)
+- Ensure consistent project documentation and status reporting
+- Coordinate cross-team and stakeholder communication
+
+### Goals
+- Deliver projects on time and within scope
+- Minimize unplanned work and escalations
+- Maintain transparency and alignment across stakeholders
+
+### Typical Communication
+- Weekly status updates and stakeholder reports
+- Risk registers and decision logs
+- Coordination via project boards and meeting facilitation
+
+---
+
+## UX Designer
+
+### Role Summary
+Project Managers coordinate delivery activities, manage schedules, risks, and communications. They enable the team to deliver on commitments efficiently.
+
+### Responsibilities
+- Create and maintain project plans and timelines
+- Manage risks, dependencies, and resource constraints
+- Facilitate meetings (kickoff, planning, retrospectives)
+- Ensure consistent project documentation and status reporting
+- Coordinate cross-team and stakeholder communication
+
+### Goals
+- Deliver projects on time and within scope
+- Minimize unplanned work and escalations
+- Maintain transparency and alignment across stakeholders
+
+### Typical Communication
+- Weekly status updates and stakeholder reports
+- Risk registers and decision logs
+- Coordination via project boards and meeting facilitation
+
+---
+
+## Technical Writer
+
+### Role Summary
+Project Managers coordinate delivery activities, manage schedules, risks, and communications. They enable the team to deliver on commitments efficiently.
+
+### Responsibilities
+- Create and maintain project plans and timelines
+- Manage risks, dependencies, and resource constraints
+- Facilitate meetings (kickoff, planning, retrospectives)
+- Ensure consistent project documentation and status reporting
+- Coordinate cross-team and stakeholder communication
+
+### Goals
+- Deliver projects on time and within scope
+- Minimize unplanned work and escalations
+- Maintain transparency and alignment across stakeholders
+
+### Typical Communication
+- Weekly status updates and stakeholder reports
+- Risk registers and decision logs
+- Coordination via project boards and meeting facilitation
+
+---
+
+## Release Manager
+
+### Role Summary
+Project Managers coordinate delivery activities, manage schedules, risks, and communications. They enable the team to deliver on commitments efficiently.
+
+### Responsibilities
+- Create and maintain project plans and timelines
+- Manage risks, dependencies, and resource constraints
+- Facilitate meetings (kickoff, planning, retrospectives)
+- Ensure consistent project documentation and status reporting
+- Coordinate cross-team and stakeholder communication
+
+### Goals
+- Deliver projects on time and within scope
+- Minimize unplanned work and escalations
+- Maintain transparency and alignment across stakeholders
+
+### Typical Communication
+- Weekly status updates and stakeholder reports
+- Risk registers and decision logs
+- Coordination via project boards and meeting facilitation
+
+---
+
+## Business Analyst
+
+### Role Summary
+Project Managers coordinate delivery activities, manage schedules, risks, and communications. They enable the team to deliver on commitments efficiently.
+
+### Responsibilities
+- Create and maintain project plans and timelines
+- Manage risks, dependencies, and resource constraints
+- Facilitate meetings (kickoff, planning, retrospectives)
+- Ensure consistent project documentation and status reporting
+- Coordinate cross-team and stakeholder communication
+
+### Goals
+- Deliver projects on time and within scope
+- Minimize unplanned work and escalations
+- Maintain transparency and alignment across stakeholders
+
+### Typical Communication
+- Weekly status updates and stakeholder reports
+- Risk registers and decision logs
+- Coordination via project boards and meeting facilitation
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
